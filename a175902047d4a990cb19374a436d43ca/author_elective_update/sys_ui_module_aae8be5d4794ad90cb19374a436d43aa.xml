@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application/>
+        <filter/>
+        <name>Create New</name>
+        <order>100</order>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_737327_loaner_re.loaner_request_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-09 09:02:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>aae8be5d4794ad90cb19374a436d43aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_package display_value="Loaner Request" source="x_737327_loaner_re">a175902047d4a990cb19374a436d43ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">a175902047d4a990cb19374a436d43ca</sys_scope>
+        <sys_update_name>sys_ui_module_aae8be5d4794ad90cb19374a436d43aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-09 09:02:20</sys_updated_on>
+        <table>x_737327_loaner_re_loaner_request</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">a175902047d4a990cb19374a436d43ca</application>
+        <file_path/>
+        <instance_id>7c7f4188dbab05d452dd2f17d496199d</instance_id>
+        <instance_name>dev127890</instance_name>
+        <name>sys_ui_module_aae8be5d4794ad90cb19374a436d43aa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application/><filter/><name>Create New</name><order>100</order><path/><path_relative_to_root>false</path_relative_to_root><roles>x_737327_loaner_re.loaner_request_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-01-09 09:02:20</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>aae8be5d4794ad90cb19374a436d43aa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Create New</sys_name><sys_package display_value="Loaner Request" source="x_737327_loaner_re">a175902047d4a990cb19374a436d43ca</sys_package><sys_policy/><sys_scope display_value="Loaner Request">a175902047d4a990cb19374a436d43ca</sys_scope><sys_update_name>sys_ui_module_aae8be5d4794ad90cb19374a436d43aa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-01-09 09:02:20</sys_updated_on><table>x_737327_loaner_re_loaner_request</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>-886148473</payload_hash>
+        <record_name>Create New</record_name>
+        <reverted_from/>
+        <source>3f08ace44718a990cb19374a436d436b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-09 09:03:30</sys_created_on>
+        <sys_id>3969f69d4794ad90cb19374a436d4355</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18595c542520000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-09 09:03:30</sys_updated_on>
+        <type>Module</type>
+        <update_guid>2029b29d6d94ad90f4ce9faced987f47</update_guid>
+        <update_guid_history>2029b29d6d94ad90f4ce9faced987f47:-2086673546,2029b29d6d94ad90f4ce9faced987f47:-2086673546</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-09 09:03:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>4607df91b4774c1ab023dccf291bcc04</sys_id>
+        <sys_metadata>aae8be5d4794ad90cb19374a436d43aa</sys_metadata>
+        <sys_name>Create New</sys_name>
+        <sys_package display_value="Loaner Request" source="x_737327_loaner_re">a175902047d4a990cb19374a436d43ca</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">a175902047d4a990cb19374a436d43ca</sys_scope>
+        <sys_scope_delete display_value="">0b8e66b688454852862c7332f98957e4</sys_scope_delete>
+        <sys_update_name>sys_ui_module_aae8be5d4794ad90cb19374a436d43aa</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_aae8be5d4794ad90cb19374a436d43aa">3969f69d4794ad90cb19374a436d4355</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
