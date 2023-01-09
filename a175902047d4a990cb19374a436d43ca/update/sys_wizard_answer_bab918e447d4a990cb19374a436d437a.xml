@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New Loaner Request</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Loaner Request</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">55464cb521120110a866589604c20d56</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-06 13:30:27</sys_created_on>
+        <sys_id>bab918e447d4a990cb19374a436d437a</sys_id>
+        <sys_name>Loaner Request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_737327_loaner_re">a175902047d4a990cb19374a436d43ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">a175902047d4a990cb19374a436d43ca</sys_scope>
+        <sys_update_name>sys_wizard_answer_bab918e447d4a990cb19374a436d437a</sys_update_name>
+        <table/>
+        <target_url>x_737327_loaner_re_loaner_request.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
