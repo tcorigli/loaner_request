@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
     <sys_db_object action="INSERT_OR_UPDATE">
-        <access/>
+        <access>public</access>
         <actions_access>true</actions_access>
         <alter_access>true</alter_access>
         <caller_access/>
         <client_scripts_access>true</client_scripts_access>
         <configuration_access>false</configuration_access>
-        <create_access>true</create_access>
+        <create_access>false</create_access>
         <create_access_controls>false</create_access_controls>
         <delete_access>false</delete_access>
         <is_extendable>false</is_extendable>
@@ -27,7 +27,7 @@
         <sys_policy/>
         <sys_scope display_value="Loaner Request">a175902047d4a990cb19374a436d43ca</sys_scope>
         <sys_update_name>sys_db_object_aab918e447d4a990cb19374a436d434a</sys_update_name>
-        <update_access>true</update_access>
+        <update_access>false</update_access>
         <user_role/>
         <ws_access>true</ws_access>
     </sys_db_object>

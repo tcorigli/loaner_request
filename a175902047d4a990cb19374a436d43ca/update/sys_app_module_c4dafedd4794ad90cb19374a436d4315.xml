@@ -19,7 +19,7 @@
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_737327_loaner_re.loaner_request_user</roles>
+        <roles>x_737327_loaner_re.loaner_request_user,x_737327_loaner_re.admin</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-01-09 09:10:55</sys_created_on>
