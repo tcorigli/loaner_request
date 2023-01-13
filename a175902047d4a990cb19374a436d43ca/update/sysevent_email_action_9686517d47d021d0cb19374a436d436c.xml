@@ -39,7 +39,8 @@
         <message_html><![CDATA[<p>Dear ${requested_for},</p>
 <p>The ${item_type} (${cmdb_ci}) is available for pick up at ${depot}.</p>
 <p>Your reservation is scheduled to begin ${start_date}. Please return the item to the same location you picked it up by ${end_date}.</p>
-<p>You will receive a return reminder 24 hours prior to its due date.</p>]]></message_html>
+<p>You will receive a return reminder 24 hours prior to its due date.</p>
+<p>${mail_script:x_737327_loaner_re_loaner_request_script_1}</p>]]></message_html>
         <message_list/>
         <message_text/>
         <name>Loaner Item Pick Up</name>
