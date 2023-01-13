@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="INSERT_OR_UPDATE">
+        <caller_access/>
+        <description>Used to trigger an email to remind a user to return their loaner item.</description>
+        <event_name>x_737327_loaner_re.Return</event_name>
+        <fired_by>Scheduled Script Execution: Loaner Item Return</fired_by>
+        <queue/>
+        <suffix>Return</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-13 10:40:10</sys_created_on>
+        <sys_id>a0e53fa247502110cb19374a436d436c</sys_id>
+        <sys_name>x_737327_loaner_re.Return</sys_name>
+        <sys_package display_value="Loaner Request" source="x_737327_loaner_re">a175902047d4a990cb19374a436d43ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">a175902047d4a990cb19374a436d43ca</sys_scope>
+        <sys_update_name>sysevent_register_a0e53fa247502110cb19374a436d436c</sys_update_name>
+        <table>x_737327_loaner_re_loaner_request</table>
+    </sysevent_register>
+</record_update>

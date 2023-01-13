@@ -23,5 +23,9 @@
         <element attributes="edge_encryption_enabled=true" label="Other" max_length="40" name="other" type="string"/>
         <element attributes="encode_utf8=false" label="Requested for" mandatory="true" max_length="32" name="requested_for" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Start date" mandatory="true" max_length="40" name="start_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Overdue reminder" max_length="40" name="u_last_overdue_reminder" type="calendar_date_time"/>
+        <element label="Overdue count" max_length="40" name="u_overdue_count" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Pick up reminder" max_length="40" name="u_pick_up_reminder" type="calendar_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Return reminder" max_length="40" name="u_return_reminder" type="calendar_date_time"/>
     </element>
 </database>
