@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="INSERT_OR_UPDATE">
+        <authentication_type>inherit_from_parent</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content/>
+        <function_name>Default GET</function_name>
+        <http_method>get</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>Get Lat Long [ Default GET ]</qualified_name>
+        <rest_endpoint>https://www.geocode.farm/v3/xml/forward/</rest_endpoint>
+        <rest_message display_value="Get Lat Long">f4783f7347946110cb19374a436d43cd</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-17 08:11:21</sys_created_on>
+        <sys_id>b72a7f7f47546110cb19374a436d43c6</sys_id>
+        <sys_name>Default GET</sys_name>
+        <sys_package display_value="Loaner Request" source="x_737327_loaner_re">a175902047d4a990cb19374a436d43ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">a175902047d4a990cb19374a436d43ca</sys_scope>
+        <sys_update_name>sys_rest_message_fn_b72a7f7f47546110cb19374a436d43c6</sys_update_name>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+</record_update>
